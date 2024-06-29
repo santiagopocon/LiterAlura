@@ -1,13 +1,15 @@
-# **Desafío LiterAlura**
+# :trophy: **Desafío LiterAlura**
 
 Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios,
 proporcionando 7 opciones de interacción.
 Los libros se buscarán a través de una API específica y serán almacenados en una base de datos para ser
 utilizada en las opciones de interacción del usuario.
 
-## **Insignia del proyecto**
+![Menu](https://github.com/santiagopocon/LiterAlura/assets/156986536/af54e567-7c11-41ff-8c7a-05278110d6c8)
 
-## **Funcionalidades**
+## 👑 **Insignia del proyecto**
+
+## :computer: **Funcionalidades**
 1. Busca libro en la API
 2. Mostrar libros registrados
 3. Mostrar autores registrados
@@ -17,49 +19,39 @@ utilizada en las opciones de interacción del usuario.
 7. Mostrar estadísticas generales de la base de datos
 
 ### Buscar libro en la API
-
-![Buscar libro en API](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\1 Buscar.png)
+![Buscar libro en API](https://github.com/santiagopocon/LiterAlura/assets/156986536/bdba5315-9730-45ef-a747-cc1311a09e57)
 
 #### Buscar libro duplicado
-
-![Buscar libro duplicado](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\1 Buscar duplicado.png)
+![1 Buscar duplicado](https://github.com/santiagopocon/LiterAlura/assets/156986536/a31e6dbf-5d75-462c-83e1-4bab77becaba)
 
 #### Buscar libro que no existe
-![Buscar libro que no existe](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\1 Buscar no existe.png)
+![1 Buscar no existe](https://github.com/santiagopocon/LiterAlura/assets/156986536/ea2caeef-92a0-44a1-9f70-5063296a509c)
 
 ### Mostrar libros registrados
-
-![Mostrar libros registrados](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\2 Listar libros.png)
+![2 Listar libros](https://github.com/santiagopocon/LiterAlura/assets/156986536/7060ae8e-6a88-4409-9330-8a05cbad144c)
 
 ### Mostrar autores registrados
-
-![Mostrar autores registrados](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\3 Listar autores.png)
+![3 Listar autores](https://github.com/santiagopocon/LiterAlura/assets/156986536/26529efc-10f2-4239-b1d1-7950d87647db)
 
 ### Buscar y mostrar autores vivos en un año determinado
-
-![Buscar y mostrar autores vivos en un año determinado](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\4 Listar autores vivos.png)
+![4 Listar autores vivos](https://github.com/santiagopocon/LiterAlura/assets/156986536/017fd8ab-5843-4029-b4bc-4f52980f1728)
 
 #### Buscar y mostrar autores vivos en un año determinado sin registros
-
-![Buscar y mostrar autores vivos en un año determinado](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\4 Listar autores vivos vacio.png)
+![4 Listar autores vivos vacio](https://github.com/santiagopocon/LiterAlura/assets/156986536/7c3d05cd-b234-4ece-9139-c314cd759ef3)
 
 ### Buscar y mostrar libros por idioma
-
-![Buscar y mostrar libros por idioma](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\5 Libros por idioma.png)
+![5 Libros por idioma](https://github.com/santiagopocon/LiterAlura/assets/156986536/2c439bea-ec81-453b-8386-ae34ef1f2f3e)
 
 #### Buscar y mostrar libros por idioma que no existe
-
-![Buscar y mostrar libros por idioma](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\5 Libros por idioma no existe.png)
+![5 Libros por idioma no existe](https://github.com/santiagopocon/LiterAlura/assets/156986536/cab86b46-da55-49ec-85fa-8bb6764f2382)
 
 ### Mostrar el top 5 de libros más descargados
-
-![Mostrar el top 5 de libros más descargados](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\6 top 5.png)
+![6 top 5](https://github.com/santiagopocon/LiterAlura/assets/156986536/f0dec57b-1acd-462c-a1fc-dab71aff635e)
 
 ### Mostrar estadísticas generales de la base de datos
+![7 Estadisticas](https://github.com/santiagopocon/LiterAlura/assets/156986536/eaffbd3e-6b84-49ca-b664-e8183d090be4)
 
-![Mostrar estadísticas generales de la base de datos](C:\Users\santi\OneDrive\Documentos\ONE\Challenge\Challenge-Literalura\literalura\imagenes\7 Estadisticas.png)
-
-# **Tenología utilizada**
+## :wrench: **Tenología utilizada**
 ```
 Java version "21.0.2" 2024-01-16 LTS
 Java Spring 3.3.1
@@ -69,11 +61,11 @@ https://gutendex.com/
 ```
 ### **Dependencias**
 
-1. [x] Spring Data JPA
-2. [x] PostgreSQL Driver
-3. [x] Jackson-databind
+✔️Spring Data JPA  
+✔️PostgreSQL Driver  
+✔️Jackson-databind
 
-## **Autor**
+## 📝 **Autor**
 Santiago Pocón  
 Formación Java Spring Boot  
 Alura Latam ONE G6  
